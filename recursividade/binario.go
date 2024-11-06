@@ -1,4 +1,4 @@
-package fatorial
+package recursividade
 
 import "fmt"
 
