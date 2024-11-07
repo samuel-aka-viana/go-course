@@ -1,0 +1,43 @@
+Inverter uma String com Recursão
+Desenvolva uma função recursiva que recebe uma string e retorna a mesma string invertida. Não utilize loops, apenas recursão.
+Exemplo: invertido("golang") → "gnalog"
+
+Calcular Fatorial com Cache (Map)
+Implemente uma função recursiva para calcular o fatorial de um número n. Use um map para armazenar os valores já calculados, evitando repetições de cálculos.
+Exemplo: fatorial(5) → 120
+
+Soma de Elementos de um Slice
+Escreva uma função recursiva que recebe um slice de inteiros e retorna a soma de todos os elementos.
+Exemplo: soma([]int{1, 2, 3, 4}) → 10
+
+Busca em uma Lista de Strings
+Crie uma função recursiva que recebe um slice de strings e uma string-alvo, retornando true se a string-alvo estiver presente no slice, ou false caso contrário.
+Exemplo: buscar([]string{"go", "java", "python"}, "java") → true
+
+Contar Ocorrências de um Caractere em uma String
+Desenvolva uma função recursiva que conta quantas vezes um caractere específico aparece em uma string.
+Exemplo: contarOcorrencias("banana", 'a') → 3
+
+Potência de um Número usando Somente Multiplicações Recursivas
+Escreva uma função recursiva que calcula a potência de um número a elevado a b (a^b) usando apenas multiplicações sucessivas.
+Exemplo: potencia(2, 3) → 8
+
+Obter Valores de um Map Aninhado
+Dado um map onde as chaves são strings e os valores são map[string]int, crie uma função recursiva para somar todos os valores presentes, independentemente do nível de aninhamento.
+Exemplo: somaValores(map[string]interface{}{"a": 2, "b": map[string]interface{}{"c": 3, "d": 4}}) → 9
+
+Verificar Palíndromo com Recursão
+Crie uma função recursiva que verifica se uma string é um palíndromo, retornando true se for e false caso contrário.
+Exemplo: palindromo("radar") → true
+
+Jogo de adivinhação com recursividade em Go, preencha um array de números é preenchido por uma pessoa e
+ outra pessoa tenta adivinhar onde o número está, podemos utilizar recursão para comparar a
+ posição do palpite com a posição correta e dar dicas como "quente", "frio", "perto", "longe", e
+ continuar até a pessoa acertar.
+
+Imprimir Elementos de um Array de Structs Recursivamente
+Defina uma struct Pessoa com Nome e Idade. Depois, crie uma função recursiva que recebe um array de Pessoa e imprime os nomes e idades de cada pessoa recursivamente.
+
+Encontre a raiz quadrada de um número 𝑛
+n utilizando recursividade e divisões sucessivas.
+A ideia é utilizar o método de aproximação sucessiva (método de Newton-Raphson) para calcular a raiz quadrada de um número 𝑛

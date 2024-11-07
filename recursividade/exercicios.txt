@@ -1,0 +1,59 @@
+Fatorial de um Número
+Crie uma função recursiva que calcula o fatorial de um número n (n!).
+Exemplo: fatorial(5) → 120
+
+Soma dos Números Naturais até N
+Implemente uma função recursiva que retorna a soma de todos os números naturais até um número n.
+Exemplo: soma(5) → 15 (1 + 2 + 3 + 4 + 5)
+
+Sequência de Fibonacci
+Escreva uma função recursiva para retornar o n-ésimo termo da sequência de Fibonacci.
+Exemplo: fibonacci(6) → 8
+
+Imprimir uma Palavra ao Contrário
+Desenvolva uma função recursiva que imprime uma palavra de forma invertida.
+Exemplo: invertido("casa") → "asac"
+
+Potência de um Número
+Crie uma função recursiva que calcula a potência de um número a elevado a b (a^b).
+Exemplo: potencia(2, 3) → 8
+
+Soma dos Dígitos de um Número
+Escreva uma função recursiva que soma os dígitos de um número inteiro n.
+Exemplo: soma_digitos(1234) → 10 (1 + 2 + 3 + 4)
+
+Verificar Palíndromo
+Crie uma função recursiva que verifica se uma palavra é um palíndromo.
+Exemplo: palindromo("radar") → True
+
+Produto de Dois Números com Somas Sucessivas
+Escreva uma função recursiva que calcula o produto de dois números a e b usando apenas somas sucessivas.
+Exemplo: produto(5, 3) → 15
+
+Contar Ocorrências de um Caractere em uma String
+Desenvolva uma função recursiva para contar quantas vezes um caractere específico aparece em uma string.
+Exemplo: conta("banana", "a") → 3
+
+MDC (Máximo Divisor Comum)
+Implemente uma função recursiva que encontra o MDC entre dois números usando o Algoritmo de Euclides.
+Exemplo: mdc(48, 18) → 6
+
+Exercícios Intermediários
+Inverter uma Lista
+Crie uma função recursiva que inverte uma lista.
+Exemplo: inverter([1, 2, 3, 4]) → [4, 3, 2, 1]
+
+Número de Caminhos em uma Grade MxN
+Implemente uma função recursiva que calcula o número de caminhos possíveis de chegar ao canto inferior direito de uma grade MxN partindo do canto superior esquerdo. Você só pode mover para a direita ou para baixo.
+Exemplo: caminhos(2, 2) → 2
+
+Subconjuntos de uma String
+Escreva uma função recursiva para gerar todos os subconjuntos possíveis de uma string.
+Exemplo: subconjuntos("abc") → ["", "a", "b", "c", "ab", "ac", "bc", "abc"]
+
+Resolver Torres de Hanói
+Implemente a solução recursiva para o problema das Torres de Hanói, movendo n discos de uma torre para outra com uma torre intermediária.
+Exemplo: hanoi(3, "A", "C", "B") (onde A, B e C são as torres)
+
+Contar Caminhos em um Labirinto
+Crie uma função recursiva que conta o número de maneiras de sair de um labirinto (representado por uma matriz) partindo de uma posição inicial até uma posição final, considerando que 1 representa um caminho e 0 representa uma parede.
