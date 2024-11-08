@@ -1,0 +1,33 @@
+Soma de Matrizes: Escreva uma função que recebe duas matrizes 3x3 como parâmetros e retorna uma nova
+matriz 3x3 contendo a soma das duas matrizes.
+
+Transposta de uma Matriz: Crie uma função que recebe uma matriz quadrada (n x n) e
+retorna sua matriz transposta (onde as linhas se tornam colunas e vice-versa). Exemplo:
+
+Produto de Matrizes: Implemente uma função que calcula o produto de duas matrizes quadradas 3x3.
+
+Somar os Elementos de uma Diagonal: Implemente uma função que recebe uma matriz 3x3 e
+retorna a soma dos elementos da diagonal principal.
+
+Somar os Elementos de uma Diagonal: Implemente uma função que recebe uma matriz 3x3 e
+retorna a soma dos elementos da diagonal secundaria.
+
+Matriz de Contagem de Ocorrências: Dado um array de números inteiros,
+ crie um mapa onde as chaves são os números e os valores são as contagens de quantas vezes cada número aparece no array.
+
+Matriz de Estruturas: Crie uma struct Produto com os campos Nome, Preço e Quantidade.
+ Em seguida, crie uma matriz 2D de produtos e calcule o total do valor de todos os produtos (Preço * Quantidade)
+
+Busca Recursiva em Matriz de Strings: Implemente uma função recursiva que busca por uma palavra em uma matriz de strings.
+ A função deve retornar true se a palavra for encontrada e false caso contrário
+
+construir uma Matriz de Fibonacci Recursiva: Crie uma função recursiva para construir uma matriz n x n
+ onde cada elemento é a sequência de Fibonacci até o índice correspondente da linha e coluna.
+ Use recursividade para preencher os valores
+
+Dada uma matriz 5x5 de inteiros, o problema consiste em encontrar o MiniMax da matriz.
+ O MiniMax é definido como o menor valor encontrado entre os maiores valores de cada linha da matriz.
+
+ amos criar um jogo simples de "Zumbi" usando uma matriz 5x5, onde o jogador e o zumbi vão atacar uma posição na matriz,
+ verificando se houve impacto e se algum dos dois foi atingido. O jogador (você) e o zumbi têm posições fixas
+ e podem atacar uma posição específica na matriz.
