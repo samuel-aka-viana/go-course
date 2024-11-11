@@ -25,11 +25,11 @@
 23. Fazer uma cópia de um slice: Escreva uma função que faça uma cópia de um slice de inteiros e retorne o novo slice. Modifique o slice original e verifique se a cópia é afetada.
 24. Recursão - Fatorial com um número variável: Escreva uma função recursiva que calcule o fatorial de um número. Além disso, implemente uma versão iterativa e compare o desempenho de ambas as abordagens.
 25. Somar elementos diagonais de uma matriz: Crie uma função que receba uma matriz 4x4 e retorne a soma de seus elementos diagonais (principais e secundárias).
-26. Mapeamento de struct para JSON: Crie uma struct Pessoa com campos nome, idade, e email. Utilize o pacote encoding/json para converter uma instância dessa struct em uma string JSON.
-27. Recursão - Busca binária: Implemente uma busca binária recursiva em um slice ordenado de inteiros para encontrar a posição de um número específico.
-28. Mapeamento de dados de uma struct para outra: Crie duas structs: Produto (com campos nome e preco) e ProdutoComDesconto (com campos nome, preco e desconto). Escreva uma função que converta uma instância de Produto para ProdutoComDesconto, aplicando um desconto de 10%.
-29. Matriz transposta: Crie uma função que receba uma matriz 3x3 e retorne sua matriz transposta (ou seja, as linhas se tornam colunas).
-30. Remover chave de um map: Crie uma função que remova uma chave específica de um map de strings para inteiros e retorne o map modificado.
-31. Ordenar um array de 10 posições de forma invertida
-32. Crie um struct que possa conter os dados de uma pessoa(nome, sexo e idade, empregado(sim ou nao), outro que tenha endereco de onde mora como estado, cidade e estado, retorne por estado qual a media de mulheres acima de 25 anos,
+26. Recursão - Busca binária: Implemente uma busca binária recursiva em um slice ordenado de inteiros para encontrar a posição de um número específico.
+27. Mapeamento de dados de uma struct para outra: Crie duas structs: Produto (com campos nome e preco) e ProdutoComDesconto (com campos nome, preco e desconto). Escreva uma função que converta uma instância de Produto para ProdutoComDesconto, aplicando um desconto de 10%.
+28. Matriz transposta: Crie uma função que receba uma matriz 3x3 e retorne sua matriz transposta (ou seja, as linhas se tornam colunas).
+29. Remover chave de um map: Crie uma função que remova uma chave específica de um map de strings para inteiros e retorne o map modificado.
+30. Ordenar um array de 10 posições de forma invertida
+31. Crie um struct que possa conter os dados de uma pessoa(nome, sexo e idade, empregado(sim ou nao), outro que tenha endereco de onde mora como estado, cidade e estado, retorne por estado qual a media de mulheres acima de 25 anos,
 e retorne tambem a quantidade de homens desempregados acima de 25 anos por estado
+32. crie um sistema de estoque usando GO,
