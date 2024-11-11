@@ -1,0 +1,35 @@
+1. Arrays com valores fixos: Crie um array com 10 elementos inteiros e inicialize-os com valores de 1 a 10. Imprima os elementos do array.
+2. Alterando um valor no array: Crie um array de inteiros com 5 elementos e altere o valor do segundo elemento. Imprima o array após a alteração.
+3. Função para verificar a presença de um valor em um array: Escreva uma função que verifique se um número específico está presente em um array de inteiros.
+4. Criar um slice a partir de um array: Crie um array de inteiros com 10 elementos. Converta-o para um slice contendo os primeiros 5 elementos e imprima esse slice.
+5. Adicionar elementos a um slice: Crie um slice vazio e adicione os números de 1 a 5 usando o operador append. Imprima o slice resultante.
+6. Fazer slice de um slice: Crie um slice de inteiros com 6 elementos. Extraia um novo slice contendo os três últimos elementos do slice original.
+7. Modificar um valor em um slice: Crie um slice de inteiros e altere o valor do segundo elemento. Imprima o slice após a modificação.
+8. Remover elementos de um slice: Escreva uma função que remova o elemento na posição 2 de um slice de inteiros e retorne o novo slice.
+9. Concatenar dois slices: Crie dois slices de inteiros, um com 3 elementos e outro com 2 elementos. Concatenate os dois slices e imprima o resultado.
+10. Contagem de elementos em um slice: Escreva uma função que conte quantos números pares existem em um slice de inteiros.
+
+11. Ordenar um slice de inteiros: Crie um slice de inteiros e escreva uma função para ordenar os elementos em ordem crescente. Utilize o pacote sort de Go.
+12. Uso de map para contagem de frequências: Crie um map que associe palavras a seus números de ocorrências em uma lista de palavras. Imprima o conteúdo do map.
+13. Criação de um map invertido: Dado um map que mapeia nomes para idades, crie uma função que inverta esse map, ou seja, mapeie idades para nomes.
+14. Recursão - Fibonacci com cache: Implemente a sequência de Fibonacci de forma recursiva, mas com cache (memoização) para melhorar o desempenho em números maiores.
+15. Recursão - Contagem de elementos em um slice: Escreva uma função recursiva que conte quantos elementos são maiores que 10 em um slice de inteiros.
+16. Structs aninhados: Crie uma struct Endereco com campos rua, numero e cidade. Crie uma struct Pessoa que tenha um campo Endereco. Inicialize uma instância da struct Pessoa e imprima o endereço completo.
+17. Uso de struct e map: Crie um map onde as chaves são IDs (inteiros) e os valores são structs Pessoa (com campos nome e idade). Adicione algumas pessoas ao map e imprima os dados.
+18. Recursão - Potência de um número: Crie uma função recursiva que calcule a potência de um número (base e expoente). Por exemplo, 2^3 deve retornar 8.
+19. Multiplicação de matrizes: Escreva uma função que multiplique duas matrizes 2x2. Faça com que a função retorne a matriz resultante da multiplicação.
+20. Soma de diagonais de uma matriz: Crie uma função que calcule a soma das diagonais principais e secundárias de uma matriz 3x3 e retorne o resultado.
+
+21. Imprimir uma matriz: Crie uma matriz 3x3 de inteiros e escreva uma função que imprima cada linha da matriz em uma nova linha no terminal.
+22. Verificar se duas matrizes são iguais: Crie uma função que compare duas matrizes 2x2 e retorne true se forem iguais e false caso contrário.
+23. Fazer uma cópia de um slice: Escreva uma função que faça uma cópia de um slice de inteiros e retorne o novo slice. Modifique o slice original e verifique se a cópia é afetada.
+24. Recursão - Fatorial com um número variável: Escreva uma função recursiva que calcule o fatorial de um número. Além disso, implemente uma versão iterativa e compare o desempenho de ambas as abordagens.
+25. Somar elementos diagonais de uma matriz: Crie uma função que receba uma matriz 4x4 e retorne a soma de seus elementos diagonais (principais e secundárias).
+26. Mapeamento de struct para JSON: Crie uma struct Pessoa com campos nome, idade, e email. Utilize o pacote encoding/json para converter uma instância dessa struct em uma string JSON.
+27. Recursão - Busca binária: Implemente uma busca binária recursiva em um slice ordenado de inteiros para encontrar a posição de um número específico.
+28. Mapeamento de dados de uma struct para outra: Crie duas structs: Produto (com campos nome e preco) e ProdutoComDesconto (com campos nome, preco e desconto). Escreva uma função que converta uma instância de Produto para ProdutoComDesconto, aplicando um desconto de 10%.
+29. Matriz transposta: Crie uma função que receba uma matriz 3x3 e retorne sua matriz transposta (ou seja, as linhas se tornam colunas).
+30. Remover chave de um map: Crie uma função que remova uma chave específica de um map de strings para inteiros e retorne o map modificado.
+31. Ordenar um array de 10 posições de forma invertida
+32. Crie um struct que possa conter os dados de uma pessoa(nome, sexo e idade, empregado(sim ou nao), outro que tenha endereco de onde mora como estado, cidade e estado, retorne por estado qual a media de mulheres acima de 25 anos,
+e retorne tambem a quantidade de homens desempregados acima de 25 anos por estado

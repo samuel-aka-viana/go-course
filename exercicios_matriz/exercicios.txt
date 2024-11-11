@@ -16,14 +16,14 @@ Matriz de Contagem de Ocorrências: Dado um array de números inteiros,
  crie um mapa onde as chaves são os números e os valores são as contagens de quantas vezes cada número aparece no array.
 
 Matriz de Estruturas: Crie uma struct Produto com os campos Nome, Preço e Quantidade.
- Em seguida, crie uma matriz 2D de produtos e calcule o total do valor de todos os produtos (Preço * Quantidade)
+ Em seguida, crie uma matriz 2D de produtos e calcule o total do valor de todos os produtos (Preço * Quantidade).
 
 Busca Recursiva em Matriz de Strings: Implemente uma função recursiva que busca por uma palavra em uma matriz de strings.
- A função deve retornar true se a palavra for encontrada e false caso contrário
+ A função deve retornar true se a palavra for encontrada e false caso contrário.
 
 construir uma Matriz de Fibonacci Recursiva: Crie uma função recursiva para construir uma matriz n x n
  onde cada elemento é a sequência de Fibonacci até o índice correspondente da linha e coluna.
- Use recursividade para preencher os valores
+ Use recursividade para preencher os valores.
 
 Dada uma matriz 5x5 de inteiros, o problema consiste em encontrar o MiniMax da matriz.
  O MiniMax é definido como o menor valor encontrado entre os maiores valores de cada linha da matriz.
