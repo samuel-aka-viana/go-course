@@ -12,7 +12,7 @@
 11. Ordenar um slice de inteiros: Crie um slice de inteiros e escreva uma função para ordenar os elementos em ordem crescente. Utilize o pacote sort de Go.
 12. Uso de map para contagem de frequências: Crie um map que associe palavras a seus números de ocorrências em uma lista de palavras. Imprima o conteúdo do map.
 13. Criação de um map invertido: Dado um map que mapeia nomes para idades, crie uma função que inverta esse map, ou seja, mapeie idades para nomes.
-14. Recursão - Fibonacci com cache: Implemente a sequência de Fibonacci de forma recursiva, mas com cache (memoização) para melhorar o desempenho em números maiores.
+14. Recursão - passe um inteiro e retorne um hexadecimal
 15. Recursão - Contagem de elementos em um slice: Escreva uma função recursiva que conte quantos elementos são maiores que 10 em um slice de inteiros.
 16. Structs aninhados: Crie uma struct Endereco com campos rua, numero e cidade. Crie uma struct Pessoa que tenha um campo Endereco. Inicialize uma instância da struct Pessoa e imprima o endereço completo.
 17. Uso de struct e map: Crie um map onde as chaves são IDs (inteiros) e os valores são structs Pessoa (com campos nome e idade). Adicione algumas pessoas ao map e imprima os dados.
