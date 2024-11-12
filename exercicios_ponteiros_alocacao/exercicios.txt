@@ -1,0 +1,59 @@
+Exercício 1: Alteração por Referência
+Escreva uma função alterarValor que recebe um ponteiro para um int e altera o valor para o dobro. .
+
+Exercício 2: Swap de Valores
+Crie uma função trocar que recebe dois ponteiros para inteiros e troca os valores entre eles.
+
+Exercício 3: Struct e Ponteiro
+Crie uma struct Pessoa com campos nome e idade. Escreva uma função que receba um ponteiro para Pessoa e altere a idade para um valor passado como argumento.
+
+Exercício 4: Manipulação de Slice por Ponteiro
+Escreva uma função adicionarElemento que recebe um ponteiro para um slice de int e um valor int a ser adicionado. A função deve modificar o slice original adicionando o novo valor.
+
+Exercício 5: Alocação Dinâmica de Slices
+Crie uma função alocarSlice que aloca dinamicamente um slice de int com n elementos. Use essa função para criar slices de tamanhos diferentes e preencher com valores sequenciais (0, 1, 2, ...).
+
+Exercício 6: Filtragem com Ponteiros
+Implemente uma função filtrarPares que recebe um ponteiro para um slice de inteiros e modifica o slice para conter apenas números pares.
+
+Exercício 7: Map com Ponteiro
+Crie uma função adicionarRegistro que receba um ponteiro para um map[string]int, uma chave e um valor, e adicione o par chave-valor ao mapa.
+
+Exercício 8: Recursão com Ponteiros
+Escreva uma função recursiva fatorialPtr que recebe um ponteiro para um int e calcula o fatorial do valor apontado, substituindo o valor pelo resultado.
+
+Exercício 9: Criação e Inicialização de Structs
+Implemente uma função novaPessoa que aloca dinamicamente uma struct Pessoa (com campos nome e idade) e retorna o ponteiro para a struct.
+
+Exercício 10: Atualização de Mapas por Ponteiros
+Escreva uma função incrementarSalario que recebe um ponteiro para um map[string]float64 e uma taxa de incremento percentual. A função deve atualizar todos os valores no mapa, aumentando o salário de cada pessoa em uma porcentagem.
+
+Exercício 11: Slice de Structs e Ponteiros
+Crie uma struct Produto com campos nome e preco. Escreva uma função que receba um ponteiro para um slice de Produto e altere os preços para aplicar um desconto de 10%.
+
+Exercício 12: Ponteiros e Strings
+Escreva uma função reverterString que receba um ponteiro para uma string e altere o conteúdo para a string invertida.
+
+Exercício 13: Cálculo Recursivo com Ponteiros
+Implemente uma função recursiva somarAteN que recebe um ponteiro para um int e retorna a soma de todos os números de 1 até o valor apontado pelo ponteiro.
+
+Exercício 14: Alocação Dinâmica e Tamanho Variável
+Escreva uma função alocarMatriz que aloca uma matriz dinâmica (slice de slices) de n por m e retorna um ponteiro para a matriz.
+
+Exercício 15: Alterando Valores em um Slice de Ponteiros
+Crie um slice de ponteiros para inteiros e inicialize cada elemento com um valor sequencial (1, 2, 3, ...). Depois, altere todos os valores para o dobro usando um loop.
+
+Exercício 16: Soma de Elementos por Referência
+Escreva uma função somaSlice que recebe um ponteiro para um slice de int e retorna a soma de todos os elementos.
+
+Exercício 17: Atualização de Estrutura Aninhada
+Crie uma struct Endereco com rua e numero, e uma struct Pessoa que contém nome, idade e endereco como campo. Escreva uma função que receba um ponteiro para Pessoa e altere o numero de Endereco.
+
+Exercício 18: Ponteiro para Função
+Escreva uma função aplicarFuncao que recebe um ponteiro para um slice de int e uma função que transforma int -> int. A função aplicarFuncao deve aplicar a função em cada elemento do slice.
+
+Exercício 19: Remoção de Elementos com Ponteiros
+Implemente uma função removerElemento que recebe um ponteiro para um slice de int e um valor a ser removido, alterando o slice para remover todas as ocorrências do valor.
+
+Exercício 20: Soma Recursiva com Ponteiro para Slice
+Escreva uma função recursiva somaRecursiva que recebe um ponteiro para um slice de int e calcula a soma dos elementos.
