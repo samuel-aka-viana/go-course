@@ -5,13 +5,16 @@ Exercício 2: Swap de Valores
 Crie uma função trocar que recebe dois ponteiros para inteiros e troca os valores entre eles.
 
 Exercício 3: Struct e Ponteiro
-Crie uma struct Pessoa com campos nome e idade. Escreva uma função que receba um ponteiro para Pessoa e altere a idade para um valor passado como argumento.
+Crie uma struct Pessoa com campos nome e idade. Escreva uma função que receba um ponteiro para
+Pessoa e altere a idade para um valor passado como argumento.
 
 Exercício 4: Manipulação de Slice por Ponteiro
-Escreva uma função adicionarElemento que recebe um ponteiro para um slice de int e um valor int a ser adicionado. A função deve modificar o slice original adicionando o novo valor.
+Escreva uma função adicionarElemento que recebe um ponteiro para um slice de int e um valor int a ser adicionado.
+A função deve modificar o slice original adicionando o novo valor.
 
 Exercício 5: Alocação Dinâmica de Slices
-Crie uma função alocarSlice que aloca dinamicamente um slice de int com n elementos. Use essa função para criar slices de tamanhos diferentes e preencher com valores sequenciais (0, 1, 2, ...).
+Crie uma função alocarSlice que aloca dinamicamente um slice de int com n elementos.
+Use essa função para criar slices de tamanhos diferentes e preencher com valores sequenciais (0, 1, 2, ...).
 
 Exercício 6: Filtragem com Ponteiros
 Implemente uma função filtrarPares que recebe um ponteiro para um slice de inteiros e modifica o slice para conter apenas números pares.
@@ -38,10 +41,12 @@ Exercício 13: Cálculo Recursivo com Ponteiros
 Implemente uma função recursiva somarAteN que recebe um ponteiro para um int e retorna a soma de todos os números de 1 até o valor apontado pelo ponteiro.
 
 Exercício 14: Alocação Dinâmica e Tamanho Variável
-Escreva uma função alocarMatriz que aloca uma matriz dinâmica (slice de slices) de n por m e retorna um ponteiro para a matriz.
+Escreva uma função alocarMatriz que aloca uma matriz dinâmica (slice de slices)
+de n por m e retorna um ponteiro para a matriz.
 
 Exercício 15: Alterando Valores em um Slice de Ponteiros
-Crie um slice de ponteiros para inteiros e inicialize cada elemento com um valor sequencial (1, 2, 3, ...). Depois, altere todos os valores para o dobro usando um loop.
+Crie um slice de ponteiros para inteiros e inicialize cada elemento com um valor sequencial (1, 2, 3, ...).
+ Depois, altere todos os valores para o dobro usando um loop.
 
 Exercício 16: Soma de Elementos por Referência
 Escreva uma função somaSlice que recebe um ponteiro para um slice de int e retorna a soma de todos os elementos.
@@ -57,3 +62,9 @@ Implemente uma função removerElemento que recebe um ponteiro para um slice de 
 
 Exercício 20: Soma Recursiva com Ponteiro para Slice
 Escreva uma função recursiva somaRecursiva que recebe um ponteiro para um slice de int e calcula a soma dos elementos.
+
+Exercício 21: Manipulação de Mapa de Strings para Inteiros
+Crie uma função atualizarMapa que recebe um ponteiro para um mapa map[string]int e uma chave, e incrementa o valor da chave especificada em 10 unidades.
+
+Exercício 22: Soma de Dois Valores com Ponteiro para Ponteiro
+Implemente uma função somaValores que recebe dois ponteiros para inteiros e retorna a soma dos valores que eles apontam

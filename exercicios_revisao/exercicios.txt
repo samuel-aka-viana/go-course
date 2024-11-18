@@ -32,5 +32,6 @@
 30. Ordenar um array de 10 posições de forma invertida
 31. Crie um struct que possa conter os dados de uma pessoa(nome, sexo e idade, empregado(sim ou nao), outro que tenha endereco de onde mora como estado, cidade e estado, retorne por estado qual a media de mulheres acima de 25 anos,
 e retorne tambem a quantidade de homens desempregados acima de 25 anos por estado
+
 32. crie um sistema de estoque usando GO
 33. biblioteca com sistema de cadastro de livro , cadastro de usuario, realizar emprestimo, realizar devolucao e mostrar historico
